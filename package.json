@@ -1,0 +1,14 @@
+{
+  "name": "continuous-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint hello.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.11.1"
+  }
+}
